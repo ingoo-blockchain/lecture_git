@@ -2,9 +2,9 @@
   {
     "idx":1,
     "subject":'안녕하세요',
-    content:'내용내용',
-    name:'ingoo'
-    date:'2022-11-22',
+    "content":'내용내용',
+    "name":"ingoo",
+    "date":"2022-11-22"
   },
   {
     idx:1,
